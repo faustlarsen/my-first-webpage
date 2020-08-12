@@ -1,12 +1,12 @@
-# _{Practice lesson}_
+# _Practice lesson_
 
-#### _{Learn Markdown}, {August 11 2020}_
+#### _Learn Markdown, August 11 2020_
 
-#### By _**{US}**_
+#### By _**US**_
 
 ## Description
 
-_{STILL LEARNING. }_
+_STILL LEARNING._
 
 ## Setup/Installation Requirements
 
@@ -16,22 +16,22 @@ _{STILL LEARNING. }_
 * _4_
 * _5_
 
-_{WHAT?}_
+_WHAT?_
 
 ## Known Bugs
 
-_{HOW? }_
+_HOW?_
 
 ## Support and contact details
 
-_{WHY?}_
+_WHY?_
 
 ## Technologies Used
 
-_{DONE.}_
+_DONE._
 
 ### License
 
-*{FREE FOR ALL}*
+*FREE FOR ALL*
 
-Copyright (c) 2016 **_{US}_**
+Copyright (c) 2016 **_US_**
